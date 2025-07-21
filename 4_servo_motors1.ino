@@ -18,7 +18,7 @@ void loop() {
     servo2.write(pos);
     servo3.write(pos);
     servo4.write(pos);
-    delay(100);  // Wait 50 ms between steps
+    delay(100);  
   }
 
   for (int pos = 180; pos >= 0; pos -= 10) {
@@ -26,7 +26,7 @@ void loop() {
     servo2.write(pos);
     servo3.write(pos);
     servo4.write(pos);
-    delay(100);  // Wait 50 ms between steps
+    delay(100); 
   }
 
   servo1.write(90);
