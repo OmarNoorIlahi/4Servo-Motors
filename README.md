@@ -16,6 +16,7 @@
 ## Overview
 
 This is Task Two in the Electrical & Electronics Engineering track, submitted to Smart Methods Company for 2025 Summer Internship. This task presents an integrated circuit controlled by Arduino to run four sweep servo motors for 2 seconds and then hold them at 90 degrees. Additionally, a theoretical algorithm is provided to initiate motion for a walking humanoid robot.
+
 ---
 
 ## Methods
@@ -46,6 +47,7 @@ First, the main environment is Tinkercad as this program provides the required t
   <img src="Initial State.png" alt="Initial State of the Circuit" width="500"/>
 </p>
 <p align="center"><i>Figure 1: Initial State of the Circuit</i></p>
+
 ---
 
 ## Output
